@@ -92,7 +92,7 @@ Any other line in the changelog block is ignored. You can use this to add commen
 
 ### Extra info
 
-Since there are not unique changelogs for every map, unless a change is universal, mapping changelog entries should always be prefixed with the name of the map they apply to.
+Since there are not unique changelogs for every map, unless a change is universal, mapping changelog entries should always be prefixed with the name of the map they apply to.  
 Example:
 ```md
 - add: Centcomm: Added a new bar
