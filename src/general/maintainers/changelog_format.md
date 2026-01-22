@@ -1,7 +1,9 @@
+# Changelog Format in Pull Requests
+
 The Changelog section of the pull request must always be at the end of the PR body.  
 The Changelog always starts off with the [Changelog Header](#changelog-header), followed by any amount of [Category Blocks](#category-block), which can contain any amount of [Entries](#entry).
 
-### Changelog Header
+## Changelog Header
 
 See [source code here](https://github.com/space-wizards/SS14.Changelog/blob/83831f3cf8d1b6e49432b4a45f5aa3c6e3f5fc2c/SS14.Changelog/Controllers/WebhookController.cs#L25-L26)
 
@@ -23,7 +25,7 @@ CL: Toby, Not Toby
 :cl: Toby, Töby!!!
 ```
 
-### Category Block
+## Category Block
 
 See [source code here](https://github.com/space-wizards/SS14.Changelog/blob/83831f3cf8d1b6e49432b4a45f5aa3c6e3f5fc2c/SS14.Changelog/Controllers/WebhookController.cs#L31-L32)
 
@@ -57,7 +59,7 @@ DeltaV:
 maps::
 ```
 
-### Entry
+## Entry
 
 See [source code here](https://github.com/space-wizards/SS14.Changelog/blob/83831f3cf8d1b6e49432b4a45f5aa3c6e3f5fc2c/SS14.Changelog/Controllers/WebhookController.cs#L28-L29)
 
@@ -86,11 +88,11 @@ bug: Oh no I forgot a list symbol
 * tweak :oops that's a typo on the space and semicolon
 ```
 
-### Leftovers
+## Leftovers
 
 Any other line in the changelog block is ignored. You can use this to add comments, whitespace to ease readability, or whatever else you want.
 
-### Extra info
+## Extra info
 
 Since there are not unique changelogs for every map, unless a change is universal, mapping changelog entries should always be prefixed with the name of the map they apply to.  
 Example:
@@ -98,7 +100,7 @@ Example:
 - add: Centcomm: Added a new bar
 ```
 
-### Example
+## Example
 As an example, a full changelog block may look like this:
 ```md
 :cl: Toby, DeltaV-Bot
