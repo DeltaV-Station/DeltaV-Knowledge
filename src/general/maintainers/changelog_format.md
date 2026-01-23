@@ -37,6 +37,7 @@ There is a whitelist of allowed categories, namely:
 - Main (This is the default if you do not start off)
 - DeltaVAdmin
 - Maps
+
 Invalid category names get ignored and the previously set category stays the current one.
 
 Examples:
@@ -71,6 +72,7 @@ The entry type has to be one of:
 - bug
 - fix
 - bugfix
+
 Where `bug`, `fix`, and `bugfix` are treated identically.
 
 Examples:
@@ -94,7 +96,8 @@ Any other line in the changelog block is ignored. You can use this to add commen
 
 ## Extra info
 
-Since there are not unique changelogs for every map, unless a change is universal, mapping changelog entries should always be prefixed with the name of the map they apply to.  
+Since there are not unique changelogs for every map, unless a change is universal, mapping changelog entries should always be prefixed with the name of the map they apply to.
+
 Example:
 ```md
 - add: Centcomm: Added a new bar
