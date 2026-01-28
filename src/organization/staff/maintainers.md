@@ -1,7 +1,7 @@
 # Maintainer Team
 
 Make the game work.\
-Lead by [Head Maintainers](#head-maintainer)
+Lead by [Head Maintainers](headstaff.md##head-maintainer)
 
 ## Maintainers
 

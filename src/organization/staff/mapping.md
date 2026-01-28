@@ -1,7 +1,7 @@
 # Mapping
 
 Guys who make maps.\
-Lead by [Head Mappers](#head-mappers)
+Lead by [Head Mappers](headstaff.md##head-mappers)
 
 ## Senior Mappers
 

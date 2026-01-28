@@ -1,7 +1,7 @@
 # Discord Moderation
 
 These guys make sure that the Discord is nice.\
-Lead by [Head Moderators](headstaff.md##head-moderators)
+Lead by [Head Moderators](headstaff.md#head-moderators)
 
 ## Senior Moderators
 

@@ -1,7 +1,7 @@
 # Curation
 
 Make sure rounds are interesting, do events. Review content additions to ensure they fit the direction.\
-Lead by [Game Directors](#game-directors)
+Lead by [Game Directors](headstaff.md##game-directors)
 
 ## Senior Curators
 
