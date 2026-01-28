@@ -1,6 +1,6 @@
 # Administration
 
-Nake sure the in-game rules are followed.\
+Make sure the in-game rules are followed.\
 Lead by [Head Game Administrators](headstaff.md#head-game-administrators)
 
 ## Senior Game Administrators

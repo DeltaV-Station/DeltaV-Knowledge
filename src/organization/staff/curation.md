@@ -5,14 +5,14 @@ Lead by [Game Directors](headstaff.md##game-directors)
 
 ## Senior Curators
 
-These guys make sure that nobody in-game breaks the rules, and have been for a while.
+These guys help make roadmaps, Content Management decisions, and run cool events, and have been for a while.
 
 - Javadocs
 - JohnHelldiver
 
 ## Curators
 
-These guys make sure that nobody in-game breaks the rules.
+These guys run cool events, and vote with content management.
 
 - Porto
 - Wesk

@@ -5,7 +5,7 @@ Lead by [Head Moderators](headstaff.md#head-moderators)
 
 ## Senior Moderators
 
-Lots of days Discord mods
+These guys handle staff report investigations, and keep our discord community clean and fresh
 
 - Userfacethis
 

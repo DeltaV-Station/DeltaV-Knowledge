@@ -22,3 +22,4 @@ Guys who make maps a regular amount
 - Requiem
 - Bribrooo
 - Snowy
+- Vapetastic / Jimboe

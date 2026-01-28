@@ -12,5 +12,4 @@ Responsible for making sure that the stuff that gets added works correctly and t
 - Velcroboy
 - Javadocs
 - ATaco
-- Quanteey
 - Snickers10m

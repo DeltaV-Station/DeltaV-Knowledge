@@ -10,7 +10,10 @@ Manages the servers DeltaV runs on.
 
 ## Project Managers
 
-Handles Internal Affairs, content, staff policies, and all things regarding Delta-V. Oversees all staff. Determines the continuity of the project. Determines the “Future Plans” of the project. Project manager’s have the ability to make “Owner-like” decisions via unanimous PM agreements (with other PM’s) and can bypass this in times of emergencies.
+Handles Internal Affairs, content, staff policies, and all things regarding Delta-V. Oversees all staff. Determines the continuity of the project.
+Determines the “Future Plans” of the project.
+
+*Project manager’s have the ability to make “Owner-like” decisions via unanimous PM agreements (with other PM’s) and can bypass this in times of emergencies.*
 
 - Aera Aulin
 - Field Command
