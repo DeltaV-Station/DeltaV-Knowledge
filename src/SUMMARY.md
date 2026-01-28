@@ -15,21 +15,21 @@
 
 ---
 
-# General
+# Staff Knowledge
 
-- [Maintainers](general/maintainers.md)
-  - [Changelog Format in Pull Requests](general/maintainers/changelog_format.md)
-  - [PR Review Checklist](general/maintainers/pr_review_checklist.md)
+- [Maintainers](staff_knowledge/maintainers.md)
+  - [Changelog Format in Pull Requests](staff_knowledge/maintainers/changelog_format.md)
+  - [PR Review Checklist](staff_knowledge/maintainers/pr_review_checklist.md)
 
 ---
 
 # In-Game
 
 - [Adminning](ingame/general.md)
-  - [Basic Commands](ingame/general/basic_cmds.md)
-  - [Toolshed Commands](ingame/general/toolshed_cmds.md)
-  - [General Recommendations](ingame/general/recs.md)
-  - [Local Scripts](ingame/general/scripts.md)
+  - [Basic Commands](ingame/adminning/basic_cmds.md)
+  - [Toolshed Commands](ingame/adminning/toolshed_cmds.md)
+  - [General Recommendations](ingame/adminning/recs.md)
+  - [Local Scripts](ingame/adminning/scripts.md)
 
 - [Tips](ingame/tips.md)
   - [Responding to Prayers and Faxes](ingame/tips/prayers_faxes.md)
