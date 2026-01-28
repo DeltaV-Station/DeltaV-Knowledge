@@ -1,4 +1,6 @@
+.direnv
 .DS_Store
-.trash
 .obsidian
+.trash
 book
+result

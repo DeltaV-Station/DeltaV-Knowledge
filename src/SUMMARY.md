@@ -1,6 +1,10 @@
 # Summary
 
-- [Introduction](introduction.md)
+[Introduction](introduction.md)
+
+# Delta-V Organization
+- [Organization](organization/index.md)
+  - [Staff list](organization/staff.md)
 
 # General 
 - [Maintainers](general/maintainers.md)
