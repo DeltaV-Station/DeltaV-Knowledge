@@ -1,9 +1,9 @@
-### Maintainer Team
+# Maintainer Team
 
 Make the game work.\
 Lead by [Head Maintainers](#head-maintainer)
 
-#### Maintainers
+## Maintainers
 
 Responsible for making sure that the stuff that gets added works correctly and the code is decent. They review your PRs.
 

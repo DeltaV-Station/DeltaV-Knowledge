@@ -1,9 +1,9 @@
-### Mapping
+# Mapping
 
 Guys who make maps.\
 Lead by [Head Mappers](#head-mappers)
 
-#### Senior Mappers
+## Senior Mappers
 
 Guys who make maps a lot.\
 May also review maps.
@@ -12,7 +12,7 @@ May also review maps.
 - Colin
 - Biddy Gelson
 
-#### Mappers
+###Mappers
 
 Guys who make maps a regular amount
 

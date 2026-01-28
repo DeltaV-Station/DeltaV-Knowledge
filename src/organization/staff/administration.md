@@ -1,8 +1,8 @@
-### Administration
+# Administration
 
 Lead by [Head Game Administrators](#head-game-administrators)
 
-#### Senior Game Administrators
+## Senior Game Administrators
 
 They have more experience than other admins
 
@@ -13,7 +13,7 @@ They have more experience than other admins
 - Jimboe
 - Solaris
 
-#### Game Administrators
+## Game Administrators
 
 These guys make sure that nobody in-game breaks the rules.
 
@@ -31,7 +31,7 @@ These guys make sure that nobody in-game breaks the rules.
 - TurkeyThug
 - Wolfmin
 
-#### Trial Game Administrator
+## Trial Game Administrator
 
 Aspiring Administrators
 

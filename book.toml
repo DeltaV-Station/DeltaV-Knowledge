@@ -2,3 +2,7 @@
 title = "Delta-V Knowledgebase"
 authors = ["DisposableCrewmember42", "Toby222"]
 language = "en"
+
+[output.html]
+git-repository-url = "https://github.com/DeltaV-Station/DeltaV-Knowledge/"
+edit-url-template = "https://github.com/DeltaV-Station/DeltaV-Knowledge/edit/main/{path}"

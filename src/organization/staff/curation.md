@@ -1,16 +1,16 @@
-### Curation
+# Curation
 
 Make sure rounds are interesting, do events. Review content additions to ensure they fit the direction.\
 Lead by [Game Directors](#game-directors)
 
-#### Senior Curators
+## Senior Curators
 
 These guys make sure that nobody in-game breaks the rules, and have been for a while.
 
 - Javadocs
 - JohnHelldiver
 
-#### Curators
+## Curators
 
 These guys make sure that nobody in-game breaks the rules.
 
@@ -25,7 +25,7 @@ These guys make sure that nobody in-game breaks the rules.
 - Einknusspringestoast
 - Ayylmao69
 
-#### Trial Curators
+## Trial Curators
 
 Still trying out, aspiring [Curators](#curators)
 

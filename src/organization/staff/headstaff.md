@@ -1,14 +1,14 @@
-### High Command
+# High Command
 
 These are heads of the project and its departments.
 
-#### Host
+## Host
 
 Manages the servers DeltaV runs on.
 
 - Skunks
 
-#### Project Managers
+## Project Managers
 
 Manage the DeltaV team as a whole.
 
@@ -16,33 +16,33 @@ Manage the DeltaV team as a whole.
 - Field Command
 - Jimboe
 
-#### Game Directors
+## Game Directors
 
 Control the direction the game is going in.
 
 - Cepelinas
 - Stop Sign
 
-#### Head Moderators
+## Head Moderators
 
 Lead the Discord moderation team.
 
 - Glarbog
 
-#### Head Game Administrators
+## Head Game Administrators
 
 Lead the in-game administration team.
 
 - GrayMin
 - Halomoth
 
-#### Head Maintainers
+## Head Maintainers
 
 Lead the maintainer team, control the codebase.
 
 - Toby
 
-#### Head Mappers
+## Head Mappers
 
 Review maps.
 

@@ -6,12 +6,22 @@
 
 - [Organization](organization/index.md)
   - [Staff list](organization/staff.md)
+    - [High Command](organization/staff/headstaff.md)
+    - [Administration](organization/staff/administration.md)
+    - [Discord Moderation](organization/staff/moderation.md)
+    - [Maintainer Team](organization/staff/maintainers.md)
+    - [Direction](organization/staff/curation.md)
+    - [Mapping](organization/staff/mapping.md)
+
+---
 
 # General
 
 - [Maintainers](general/maintainers.md)
   - [Changelog Format in Pull Requests](general/maintainers/changelog_format.md)
   - [PR Review Checklist](general/maintainers/pr_review_checklist.md)
+
+---
 
 # In-Game
 
