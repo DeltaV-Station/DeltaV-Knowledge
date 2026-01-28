@@ -10,7 +10,7 @@ Manages the servers DeltaV runs on.
 
 ## Project Managers
 
-Manage the DeltaV team as a whole.
+Handles Internal Affairs, content, staff policies, and all things regarding Delta-V. Oversees all staff. Determines the continuity of the project. Determines the “Future Plans” of the project. Project manager’s have the ability to make “Owner-like” decisions via unanimous PM agreements (with other PM’s) and can bypass this in times of emergencies.
 
 - Aera Aulin
 - Field Command
@@ -19,19 +19,20 @@ Manage the DeltaV team as a whole.
 ## Game Directors
 
 Control the direction the game is going in.
+Oversight of Direction; including hiring, training, and promoting. Direction roadmap approval, Oversight of Content.
 
 - Cepelinas
 - Stop Sign
 
 ## Head Moderators
 
-Lead the Discord moderation team.
+Handles Internal Affairs, Investigates staff violations and staff reports. Oversees Moderation, the discord and it's rules.
 
 - Glarbog
 
 ## Head Game Administrators
 
-Lead the in-game administration team.
+Oversight of Administration; including hiring, training, and promoting. Administrative rulings and Administrative policies
 
 - GrayMin
 - Halomoth
@@ -44,6 +45,6 @@ Lead the maintainer team, control the codebase.
 
 ## Head Mappers
 
-Review maps.
+Review maps and determine mapping policy and standards.
 
 - Velcroboy
