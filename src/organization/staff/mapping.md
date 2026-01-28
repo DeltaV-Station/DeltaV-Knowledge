@@ -1,11 +1,11 @@
 ### Mapping
 
-Guys who make maps.  
+Guys who make maps.\
 Lead by [Head Mappers](#head-mappers)
 
 #### Senior Mappers
 
-Guys who make maps a lot.  
+Guys who make maps a lot.\
 May also review maps.
 
 - Field Command

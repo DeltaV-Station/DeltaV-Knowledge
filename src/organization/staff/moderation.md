@@ -1,6 +1,6 @@
 ### Discord Moderation
 
-These guys make sure that the Discord is nice.  
+These guys make sure that the Discord is nice.\
 Lead by [Head Moderators](#head-moderators)
 
 #### Senior Moderators
