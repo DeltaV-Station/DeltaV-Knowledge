@@ -11,7 +11,7 @@ They have more experience than other admins
 - BonkTrauma
 - Cyberjoel
 - HyperionGM
-- Jimboe
+- Vapetastic / Jimboe
 - Solaris
 
 ## Game Administrators

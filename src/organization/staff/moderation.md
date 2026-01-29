@@ -13,6 +13,6 @@ These guys handle staff report investigations, and keep our discord community cl
 
 Everyday Discord mods
 
-- Jimboe
+- Vapetastic / Jimboe
 - Julius FoxMan
 - Vlacc

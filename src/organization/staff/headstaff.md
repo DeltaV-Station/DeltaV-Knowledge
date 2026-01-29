@@ -13,15 +13,15 @@ Manages the servers DeltaV runs on.
 Handles Internal Affairs, content, staff policies, and all things regarding Delta-V. Oversees all staff. Determines the continuity of the project.
 Determines the “Future Plans” of the project.
 
-*Project manager’s have the ability to make “Owner-like” decisions via unanimous PM agreements (with other PM’s) and can bypass this in times of emergencies.*
+*Project managers have the ability to make “Owner-like” decisions via unanimous PM agreements (with other PMs) and can bypass this in times of emergencies.*
 
 - Aera Aulin
 - Field Command
-- Jimboe
+- Vapetastic / Jimboe
 
 ## Game Directors
 
-Control the direction the game is going in.
+Control the direction the game is going in.\
 Oversight of Direction; including hiring, training, and promoting. Direction roadmap approval, Oversight of Content.
 
 - Cepelinas
@@ -29,13 +29,13 @@ Oversight of Direction; including hiring, training, and promoting. Direction roa
 
 ## Head Moderators
 
-Handles Internal Affairs, Investigates staff violations and staff reports. Oversees Moderation, the discord and it's rules.
+Handles Internal Affairs, investigates staff violations and staff reports. Oversees Moderation, the discord and its rules.
 
 - Glarbog
 
 ## Head Game Administrators
 
-Oversight of Administration; including hiring, training, and promoting. Administrative rulings and Administrative policies
+Oversight of Administration; including hiring, training, and promoting. Administrative rulings and Administrative policies.
 
 - GrayMin
 - Halomoth
