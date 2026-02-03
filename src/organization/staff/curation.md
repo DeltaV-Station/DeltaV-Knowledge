@@ -24,17 +24,16 @@ These guys run cool events, and vote with content management.
 - KrissTorrio
 - Einknusspringestoast
 - Ayylmao69
+- AirlineFood
+- Sloppr
+- Dallas
 
 ## Trial Curators
 
 Still trying out, aspiring [Curators](#curators)
 
 - Rebe83
-- Schiene
 - Solaris
-- Dallas
-- Sloppr
 - Quill
-- AirlineFood
 - Dorragon
 - Quanteey
