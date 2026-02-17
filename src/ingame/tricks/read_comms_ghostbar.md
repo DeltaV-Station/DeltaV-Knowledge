@@ -1,6 +1,7 @@
 # Station Comms in a Ghost Bar
 
-> [!WARNING] Don't give ghost bar patrons access to station comms, they will be able to send messages to the station. This is meant to be used to give your character at a ghost bar or other admin area event access to comms, so you can keep track of what is happening on station.
+> [!WARNING]
+> Don't give ghost bar patrons access to station comms, they will be able to send messages to the station. This is meant to be used to give your character at a ghost bar or other admin area event access to comms, so you can keep track of what is happening on station.
 
 ![An image of a fishing ghost bar](../images/ghostbar_fishing.webp)
 

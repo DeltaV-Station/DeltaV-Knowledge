@@ -28,4 +28,5 @@
 
   ![A screenshot of the F5 panel with instant effects](../images/instant_effect_spawns.png)
 
-> [!WARNING] The range on the Gravity Well instant effect is very large, able to affect all of your admin area if placed in its center. You probably shouldn't use it in response to a prayer.
+> [!WARNING]
+> The range on the Gravity Well instant effect is very large, able to affect all of your admin area if placed in its center. You probably shouldn't use it in response to a prayer.

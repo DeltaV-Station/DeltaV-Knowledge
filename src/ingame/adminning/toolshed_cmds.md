@@ -4,7 +4,8 @@
 
 Toolshed commands are invoked as part of their own custom query language. Toolshed allows you to search for certain groups of entities and then apply operations to them.
 
-> [!IMPORTANT] When you want to use Toolshed, always make sure to start your command by with `> `.
+> [!IMPORTANT]
+> When you want to use Toolshed, always make sure to start your command by with `> `.
 >
 > You'll get a permission denied message if you don't do this. Even with the > prepended, you may not have access to some commands. That's normal.
 
@@ -23,7 +24,8 @@ You can iterate over certain (groups of) entities with the following commands:
 
 #### entities
 
-> [!WARNING] When using the entities command, always make sure you know what you are doing. Double-check your commands. Accidentally applying actions to a large amount of entities could easily end the round or crash the server.
+> [!WARNING]
+> When using the entities command, always make sure you know what you are doing. Double-check your commands. Accidentally applying actions to a large amount of entities could easily end the round or crash the server.
 
 - This allows you to query all entities known to the server.
 - You should specify a filter for your query using...
