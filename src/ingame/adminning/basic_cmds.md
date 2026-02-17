@@ -1,6 +1,7 @@
 # Basic Commands
 
-> [!NOTE] For an overview of admin menus and verbs, check out the [upstream Admin Tooling docs](https://docs.spacestation14.com/en/community/admin/admin-tooling.html)
+> [!NOTE]
+> For an overview of admin menus and verbs, check out the [upstream Admin Tooling docs](https://docs.spacestation14.com/en/community/admin/admin-tooling.html)
 
 ## De-/Activating Admin privileges
 
@@ -136,7 +137,8 @@
 
 ### griddrag
 
-> [!WARNING] Don't forget to turn griddrag off after using it! There's no indicator that it's enabled and you won't see the grid you're on moving as you're moving with it. If you forget to disable it, you'll probably end up janking around the station and disrupting the round.
+> [!WARNING]
+> Don't forget to turn griddrag off after using it! There's no indicator that it's enabled and you won't see the grid you're on moving as you're moving with it. If you forget to disable it, you'll probably end up janking around the station and disrupting the round.
 
 |Syntax  |Description |
 |:-------|:-----------|
