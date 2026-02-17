@@ -2,7 +2,12 @@
 
 You can store series of commands in local files and then execute them ingame using `exec <path relative to SS14 Data>`
 
-You can simply save text files with commands in the following directory: |OS|Location| |--|---| |Linux|`~/.local/share/Space Station 14/data/`| |Windows|`%APPDATA%\Space Station 14\data\`| |macOS|`~/Library/Application Support/Space Station 14/data`|
+You can simply save text files with commands in the following directory:
+|OS|Location|
+|--|---|
+|Linux|`~/.local/share/Space Station 14/data/`|
+|Windows|`%APPDATA%\Space Station 14\data\`|
+|macOS|`~/Library/Application Support/Space Station 14/data`|
 
 Here's an admin script, for example. It makes sure you're aghosted, then adds useful components to your ghost and adjusts the speed modifiers such that you move faster by default and at double speed while pressing Shift. It also turns on the admin overlay automatically.
 
