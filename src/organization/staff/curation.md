@@ -1,20 +1,21 @@
 # Curation
 
-Make sure rounds are interesting, do events. Review content additions to ensure they fit the direction.\
+Make sure rounds are interesting, do events.\
 Lead by [Game Directors](headstaff.md##game-directors)
 
 ## Senior Curators
 
-These guys help make roadmaps, Content Management decisions, and run cool events, and have been for a while.
+These guys were here for a while, so they're more trusted in running and managing events.
 
 - Javadocs
 - JohnHelldiver
+- Stop_Sign
+- Porto
 
 ## Curators
 
-These guys run cool events, and vote with content management.
+These guys run cool events.
 
-- Porto
 - Wesk
 - Polyeder
 - Darkylack
@@ -32,8 +33,11 @@ These guys run cool events, and vote with content management.
 
 Still trying out, aspiring [Curators](#curators)
 
-- Rebe83
 - Solaris
 - Quill
 - Dorragon
-- Quanteey
+- Siphynith
+- Acvu
+- Apachito
+- Bellwether
+- Novostiya
