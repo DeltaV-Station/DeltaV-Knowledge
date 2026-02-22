@@ -21,10 +21,16 @@ Determines the “Future Plans” of the project.
 
 ## Game Directors
 
-Control the direction the game is going in.\
-Oversight of Direction; including hiring, training, and promoting. Direction roadmap approval, Oversight of Content.
+Control the in-game server events made by staff.\
+Oversight of Event Management; including hiring, training, and promoting. Oversight of Events.
 
 - Cepelinas
+
+## Content Directors
+
+Control the direction the game is going in.\
+Oversight of Content Management; including hiring, training and promoting. Direction roadmap approval, Oversight of Content.
+
 - Stop Sign
 
 ## Head Moderators
