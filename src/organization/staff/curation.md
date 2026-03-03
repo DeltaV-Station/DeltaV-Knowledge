@@ -34,7 +34,6 @@ These guys run cool events.
 Still trying out, aspiring [Curators](#curators)
 
 - Solaris
-- Quill
 - Dorragon
 - Siphynith
 - Acvu
