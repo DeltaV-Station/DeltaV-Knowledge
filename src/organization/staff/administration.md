@@ -11,16 +11,18 @@ They have more experience than other admins
 - BonkTrauma
 - Cyberjoel
 - HyperionGM
-- Vapetastic / Jimboe
 - Solaris
+- Vapetastic / Jimboe
 
 ## Game Administrators
 
 These guys make sure that nobody in-game breaks the rules.
 
+- Charlie Fangtooth
 - Cheemsie
 - Confused Lemon
 - DefundStationSalvage
+- Disposable
 - Grasstype
 - Porto
 - PureBreadBagel
@@ -28,6 +30,7 @@ These guys make sure that nobody in-game breaks the rules.
 - Rexy
 - Rust1954
 - Schiene
+- Stxcking
 - TheGypsyBard
 - TurkeyThug
 - Wolfmin
@@ -37,7 +40,4 @@ These guys make sure that nobody in-game breaks the rules.
 Aspiring Administrators
 
 - Bunglesnort
-- Charlie Fangtooth
-- Disposable
 - GlitchesBrew
-- Stxcking
