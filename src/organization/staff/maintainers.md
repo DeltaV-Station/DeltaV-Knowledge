@@ -14,3 +14,9 @@ Responsible for making sure that the stuff that gets added works correctly and t
 - ATaco
 - Snickers10m
 - BarryNorfolk
+
+## YAMLtainers
+
+Technically the same as a maintainer but focuses on YAML
+
+- Pharaz
