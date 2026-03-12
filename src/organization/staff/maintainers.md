@@ -19,4 +19,4 @@ Responsible for making sure that the stuff that gets added works correctly and t
 
 Technically the same as a maintainer but focuses on YAML
 
-- Pharaz
+- N/A
