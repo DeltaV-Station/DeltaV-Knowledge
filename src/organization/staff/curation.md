@@ -28,15 +28,20 @@ These guys run cool events.
 - AirlineFood
 - Sloppr
 - Dallas
+- Solaris
+- Dorragon
+- Siphynith
+- Novostiya
 
 ## Trial Curators
 
 Still trying out, aspiring [Curators](#curators)
 
-- Solaris
-- Dorragon
-- Siphynith
 - Acvu
 - Apachito
 - Bellwether
-- Novostiya
+- Psylux
+- Inzuno (Kelli Cant)
+- RealRobyn
+- Morgan the Giraffe
+
