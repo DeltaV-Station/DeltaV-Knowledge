@@ -37,6 +37,12 @@
 |:-------|:-----------|
 | `adminoverlay <bool>` | Alternative to clicking the toggle overlay button in the F7 player menu. |
 
+### getping
+
+|Syntax  |Description |
+|:-------|:-----------|
+| `getping <username>` | Prints the specified player's ping to your console. |
+
 ### listgamerules
 
 |Syntax  |Description |
@@ -47,11 +53,24 @@
 - If the `BasicStationEventScheduler` is present, you can identify the gamemode by antag-specific gamerules such as `Nukeops` or `Traitors`.
 - Some round-start antagonists don't roll immediately; the respective game rules will be shown as `[PENDING]` until the roles are filled.
 
+### lslaws
+
+|Syntax  |Description |
+|:-------|:-----------|
+| `lslaws [username]` | Prints the silicon laws of the specified player to your console. If no username is specified, prints an overview of everyone's laws. |
+
 ### lsobjectives
 
 |Syntax  |Description |
 |:-------|:-----------|
-| `lsobjectives <username>` | Prints the antagonist objectives of the requested player to your console.|
+| `lsobjectives [username]` | Prints the antagonist objectives of the specified player to your console. If no username is specified, prints an overview of everyone's objectives. |
+
+### lswatchlisted
+
+|Syntax  |Description |
+|:-------|:-----------|
+| `lswatchlisted` | Prints a list of watchlisted players on the server, along with their watchlist notes.|
+
 
 ### menuvis
 
