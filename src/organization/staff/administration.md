@@ -27,7 +27,6 @@ These guys make sure that nobody in-game breaks the rules.
 - Porto
 - PureBreadBagel
 - Rebe83
-- Rexy
 - Rust1954
 - Schiene
 - Stxcking
@@ -41,3 +40,7 @@ Aspiring Administrators
 
 - Bunglesnort
 - GlitchesBrew
+- Devlmin
+- shop
+- TheFreedomCommander
+- Qwerty6981
