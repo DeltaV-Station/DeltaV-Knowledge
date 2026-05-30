@@ -1,6 +1,6 @@
 # Curation
 
-Make sure rounds are interesting, do events.\
+Make rounds are interesting, do events.\
 Lead by [Game Directors](headstaff.md##game-directors)
 
 ## Senior Curators
@@ -8,9 +8,7 @@ Lead by [Game Directors](headstaff.md##game-directors)
 These guys were here for a while, so they're more trusted in running and managing events.
 
 - Javadocs
-- JohnHelldiver
 - Stop_Sign
-- Porto
 
 ## Curators
 
@@ -32,6 +30,8 @@ These guys run cool events.
 - Dorragon
 - Siphynith
 - Novostiya
+- RealRobyn
+- Inzuno (Kelli Cant)
 
 ## Trial Curators
 
@@ -41,7 +41,6 @@ Still trying out, aspiring [Curators](#curators)
 - Apachito
 - Bellwether
 - Psylux
-- Inzuno (Kelli Cant)
-- RealRobyn
+
 - Morgan the Giraffe
 
