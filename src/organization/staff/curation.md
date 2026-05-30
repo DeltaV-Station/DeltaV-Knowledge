@@ -1,6 +1,6 @@
 # Curation
 
-Make rounds are interesting, do events.\
+Make rounds interesting, do events.\
 Lead by [Game Directors](headstaff.md##game-directors)
 
 ## Senior Curators
