@@ -33,14 +33,15 @@ These guys make sure that nobody in-game breaks the rules.
 - TheGypsyBard
 - TurkeyThug
 - Wolfmin
+- Bunglesnort
+- TheFreedomCommander
+- Qwerty6981
 
 ## Trial Game Administrator
 
 Aspiring Administrators
 
-- Bunglesnort
-- GlitchesBrew
 - Devlmin
 - shop
-- TheFreedomCommander
-- Qwerty6981
+- Ponky
+- FeelyFunTime
