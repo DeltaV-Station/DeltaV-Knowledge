@@ -99,6 +99,12 @@
 - Flag `IP`: Used to exempt someone from a non-VPN IP Ban. Use this if they are affected by another player's ban.
 - Flag `Datacenter`: Used to exempt someone from VPN/Datacenter bans.
 
+### mute
+
+|Syntax  |Description |
+|:-------|:-----------|
+| `mute <LOOC/OOC/DEADCHAT> <username>` | Mute/unmute a player in a specific OOC channel. |
+
 ### rename
 
 |Syntax  |Description |
