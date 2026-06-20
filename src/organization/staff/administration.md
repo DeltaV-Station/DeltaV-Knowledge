@@ -27,17 +27,21 @@ These guys make sure that nobody in-game breaks the rules.
 - Porto
 - PureBreadBagel
 - Rebe83
-- Rexy
 - Rust1954
 - Schiene
 - Stxcking
 - TheGypsyBard
 - TurkeyThug
 - Wolfmin
+- Bunglesnort
+- TheFreedomCommander
+- Qwerty6981
 
 ## Trial Game Administrator
 
 Aspiring Administrators
 
-- Bunglesnort
-- GlitchesBrew
+- Devlmin
+- shop
+- Ponky
+- FeelyFunTime

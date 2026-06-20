@@ -14,6 +14,8 @@ Responsible for making sure that the stuff that gets added works correctly and t
 - ATaco
 - Snickers10m
 - BarryNorfolk
+- SirWarock
+- akesi ma
 
 ## YAMLtainers
 
