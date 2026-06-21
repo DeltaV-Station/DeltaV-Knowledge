@@ -32,6 +32,10 @@
   - [General Recommendations](ingame/adminning/recs.md)
   - [Local Scripts](ingame/adminning/scripts.md)
 
+- [Eventing](ingame/eventing.md)
+  - [Basics Of Eventing](ingame/eventing/eventing.md)
+  - [Central Command](ingame/eventing/central_command.md)
+
 - [Tips](ingame/tips.md)
   - [Responding to Prayers and Faxes](ingame/tips/prayers_faxes.md)
   - [Building Stuff](ingame/tips/building.md)
