@@ -43,3 +43,21 @@ As a rule of thumb, act as what Station AI can see, **except hearing station rad
 Rely on people that NanoTrasen hired to do their jobs as well. Order Command to relay messages and command their crew, call Engineering for building related matters, Logistics for purchases, cargo related things and so on.
 
 ***However, do not shut down antagonists instantly.*** There are exceptions, where traitors managed to overthrow Command, but if you get a fax about seemingly fake CC members, don't respond or give them a vague answer that doesn't instantly validate them as being fake. Antagonists drive the round, so help them out if you feel like it.
+
+### Limit and keep your announcements professional.
+Announcements are generally good to let *everyone* know what's going on. **They're fine to use for emergency related things or incredibly niche things**, like informing about a bill for crewmember teleportation out of an FTL flight.
+
+***However, keep in mind that the more common announcements are, the less players are going to read them.*** It's why you should generally try to convey information through holopad calls or faxes. Command's job is to command, so trust them to relay your information correctly.
+If you can't decide if this requires an announcement, ask your peers for help.
+
+Another note is that you should try to keep your tone professional as Central Command. Your position is valued highly, so act like it.
+
+In short, avoid announcements like these:
+
+- *"Central Command announcement:"*
+  - _"guys what the fuck are you doing there holy shit"_
+
+And have them more like:
+
+- *"Central Command announcement:"*
+  - _"We've been observing the on-going situation and ask the crew to calm themselves. Otherwise we will have to take extreme measures."_
