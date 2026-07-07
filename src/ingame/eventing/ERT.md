@@ -40,3 +40,11 @@ Luckily, we have a chart to simplify our system:
 
 ### WarOps ERT Chart:
 ![warops.drawio.png](../images/eventing/warops.drawio.png)
+
+The premise is that you're trying to strike a balance between crew and antagonists. If there are nukies and they wiped the crew under 1 minute, it might be fine to send in ERT to prevent a super easy and cheesy win. But if they fought like hell through the crew, it might not be wise to rob them from their victory.
+
+In most cases, someone will complain about your decision of sending ERT, but don't let that discourage you! Some general questions you can ask yourself to decide if it is worth sending them in:
+- Will this add anything to the round?
+  - If you think that deploying your units to the station might add to the overall story of the round, do it.
+- Would this pose as an unfair battle to the major antagonist?
+  - If, say, a dragon swooped in and you got a fax about their attack, view how much damage the dragon is causing. If they managed to overrun the station with their carp flood, give them a hand at evacuation with security units. If you can think that security and crew can manage it on their own, maybe don't send it, or give send them some supplies.
