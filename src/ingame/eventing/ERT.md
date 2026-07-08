@@ -28,9 +28,11 @@ There are also several specializations of ERT:
 - **Chaplain**
   - Dispel any glimmer or cultist activity. While they're not well-equipped for combat, they are, however, ready to de-convert any possessions or deal with any ghostly haunting. Don't send them to deal with Colossus though.
 - **Janitor**
-  - The strongest unit of the team. Equipped with only a The Mop and a grenade launcher loaded with cleannades, any filth, living or dead, fear their name. They do not need any fancy guns, only the mop is a viable weapon. Due to that, Central Command holds them in their highest regard.
+  - The strongest unit of the team. Equipped with only The Mop and a grenade launcher loaded with cleannades. Any filth, living or dead, fear their name. They do not need any fancy guns, only the mop is a viable weapon. Due to that, Central Command holds them in their highest regard.
 - **CBURN**
   - Biological contamination units. They're mainly designed to fight with zombies, due to them coming with free cures and equipped with incendiary rounds. Send them whenever zombies overrun the station or have to deal with diseases.
+- **SRT**
+  - Special Response Team, usually designed for riot control or killing everything. Usually spawned in during Epsilon. **Do not deploy them without Senior Curator permission.**
 ## Emergency Call
 If the station is in trouble, eventers can send ERT to help out the crew. Though we have strict conditions WHEN to spawn them, due to their effect on antagonists.
 Luckily, we have a chart to simplify our system:
@@ -48,3 +50,13 @@ In most cases, someone will complain about your decision of sending ERT, but don
   - If you think that deploying your units to the station might add to the overall story of the round, do it.
 - Would this pose as an unfair battle to the major antagonist?
   - If, say, a dragon swooped in and you got a fax about their attack, view how much damage the dragon is causing. If they managed to overrun the station with their carp flood, give them a hand at evacuation with security units. If you can think that security and crew can manage it on their own, maybe don't send it, or give send them some supplies.
+
+Trust your judgement. If you can't, ask other staff for help.
+
+### Sending Them In
+
+You have two choices in how you can send them in.
+- The Evacuation Shuttle
+  - A classic choice and simple. If the crew called in evacuation, you can spawn in the incoming shuttle and have them prepare (or call in an earlier evacuation yourself, but refrain from this). However, the con of this, is that usually, ERT has a minimal impact on the situation. They either become door guards or extra doctors to help out with the wounded.
+- The Separate Shuttle
+  - You can either spawn in a shuttle using commands or using the CC shipyard console to grab yourself a shuttle. This method allows you for a non-evacuation shuttle deployment and possibly send in your guys much earlier than expected. *However*, if you're trying to time it with an evacuation shuttle, chances are, they will deploy around the time evacuation leaves. This is mainly due to the time it takes for ghost players to take the role, figure out their loadouts and deploy on the station.
