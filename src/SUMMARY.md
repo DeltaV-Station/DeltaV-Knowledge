@@ -35,7 +35,7 @@
 - [Eventing](ingame/eventing.md)
   - [Basics Of Eventing](ingame/eventing/eventing.md)
   - [Central Command](ingame/eventing/central_command.md)
-  - [ERT](ingame/eventing/ERT.md)
+    - [ERT](ingame/eventing/ERT.md)
 
 - [Tips](ingame/tips.md)
   - [Responding to Prayers and Faxes](ingame/tips/prayers_faxes.md)
