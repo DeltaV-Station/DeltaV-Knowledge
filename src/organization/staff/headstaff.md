@@ -24,7 +24,7 @@ Determines the “Future Plans” of the project.
 Control the in-game server events made by staff.\
 Oversight of Event Management; including hiring, training, and promoting. Oversight of Events.
 
-- Cepelinas
+- Porto
 
 ## Content Directors
 
@@ -37,20 +37,19 @@ Oversight of Content Management; including hiring, training and promoting. Direc
 
 Handles Internal Affairs, investigates staff violations and staff reports. Oversees Moderation, the discord and its rules.
 
-- Glarbog
+- Crestfallenscape
 
 ## Head Game Administrators
 
 Oversight of Administration; including hiring, training, and promoting. Administrative rulings and Administrative policies.
 
 - GrayMin
-- Halomoth
 
 ## Head Maintainers
 
 Lead the maintainer team, control the codebase.
 
-- Toby
+- Shepherdtothestars (Javadocs)
 
 ## Head Mappers
 
