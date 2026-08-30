@@ -22,11 +22,3 @@
   - [Add missing changelog entries](staff_knowledge/maintainers/add_missing_changelog_entries.md)
   - [PR Review Checklist](staff_knowledge/maintainers/pr_review_checklist.md)
 
----
-
-# In-Game
-
-- [Eventing](ingame/eventing.md)
-  - [Basics Of Eventing](ingame/eventing/eventing.md)
-  - [Central Command](ingame/eventing/central_command.md)
-    - [ERT](ingame/eventing/ERT.md)
